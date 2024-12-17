@@ -13,3 +13,7 @@ Server0: IP Address - 168.90.0.4
 Server1: IP Address - 210.3.14.2
 Server2: IP Address - 210.3.14.3
 PC2: IP Address - 210.3.14.4
+
+NEW PCS ADDED:
+PC3: IP Address - 168.90.0.6
+PC4: IP Address - 210.3.14.5
